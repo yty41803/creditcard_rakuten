@@ -1,5 +1,5 @@
-#Git チュートリアル
+# Git チュートリアル
 
--feature-A
--fix-b
--feature-C
+- feature-A
+- fix-b
+- feature-C
